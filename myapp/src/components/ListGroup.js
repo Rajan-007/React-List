@@ -6,7 +6,7 @@ function ListGroup(){
     let items=['HI','Hello','Hey','Nice'];
     
     //  items=[];
-     const notify = () => toast.success("Wow , List is so easy!");
+     const notify = () => toast.warn("Wow , List is so easy!");
     // if( items.length === 0)
     //     return<p>no item in the list</p>
     return (
